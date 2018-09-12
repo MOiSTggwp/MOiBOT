@@ -1,8 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-bot.login(process.env.NDgwMDUzMDI4NTc4MjYzMDQx.DnrF4A.sywTC5QxrP6tFXLIqGhhP-fca8U);
-
 var prefix = '!'
  
  bot.on('message', (message) => {
@@ -24,3 +22,6 @@ var prefix = '!'
         }
       }
 });
+
+
+bot.login(process.env.NDgwMDUzMDI4NTc4MjYzMDQx.DnrF4A.sywTC5QxrP6tFXLIqGhhP-fca8U);
