@@ -24,4 +24,4 @@ var prefix = '!'
 });
 
 
-bot.login(process.env.NDgwMDUzMDI4NTc4MjYzMDQx.DnrF4A.sywTC5QxrP6tFXLIqGhhP-fca8U);
+bot.login(process.env.NDgwMDUzMDI4NTc4MjYzMDQx.DnrTOg.HeTc6IVFDHPHKcSUPaccwE0qUkM);
