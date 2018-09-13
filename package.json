@@ -1,8 +1,8 @@
 {
-  "name": "DiscordBot",
+  "name": "MOiBOT",
   "version": "0.1.2",
   "description": "Bot for Discord",
-  "author": "FutureX",
+  "author": "MOiST",
   "scripts": {
     "start": "node bot.js"
   },
