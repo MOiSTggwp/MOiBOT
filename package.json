@@ -7,6 +7,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
+    "audit": "0.0.6",
     "cleverbot-node": "^0.3.11",
     "d20": "^1.4.1",
     "discord.js": "^11.4.2",
