@@ -9,7 +9,8 @@
   "dependencies": {
     "cleverbot-node": "^0.2.8",
     "d20": "^1.4.1",
-    "discord.js": "11.3.x",
+    "discord.js": "11.4.x",
+    "ffmpeg-binaries": "^4.0.0",
     "feedparser": "1.1.x",
     "html-to-text": "^3.3.0",
     "imgflipper": "^1.0.1",
