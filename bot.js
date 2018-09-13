@@ -18,7 +18,7 @@ console.log("Starting DiscordBot\nNode version: " + process.version + "\nDiscord
 // Get authentication data
 var AuthDetails = {
 	'client_id':process.env.BOT_ID,
-	'bot_token':process.env.BOT_TOKEN
+	'bot_token':process.env.BOT_TOKYN
 };
 
 // Load custom permissions
